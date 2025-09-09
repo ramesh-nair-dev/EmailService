@@ -51,6 +51,12 @@ spring.mail.password=your-password
 
 ---
 
+## Link 
+
+* [Kakfa](https://faithful-narwhal-cb8.notion.site/Kafka-26437b382b7180b3b125ccdd376f2b7f) – Explained in detail
+
+---
+
 ## 👤 Author
 
 **Ramesh Nair**
@@ -64,7 +70,5 @@ spring.mail.password=your-password
 
 ---
 
-## Link 
 
-* (Kafka Explained in detail)[https://faithful-narwhal-cb8.notion.site/Kafka-26437b382b7180b3b125ccdd376f2b7f]
 
